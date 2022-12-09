@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Docker🐋 and PowerBI⚡️**
 
-- 👯 I’m looking to collaborate on **Open Source Python Projects**
+- 👯 I’m looking to collaborate on **Open Source Python and Data Projects**
 
-- 🤝 I’m looking for help with **Data Science**
+- 🤝 I’m looking for help with **Data Analytics Role**
 
 - 💬 Ask me about **Web scraping, Data Cleaning and Data Presentation**
 
