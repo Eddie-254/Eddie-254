@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddie-254" alt="eddie-254" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance web scraping gigs**
+- 🔭 I’m currently working on **Freelance Data Analysis gigs**
 
 - 🌱 I’m currently learning **Docker🐋 and PowerBI⚡️**
 
