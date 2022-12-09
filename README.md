@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelance Data Analysis gigs**
 
-- 🌱 I’m currently learning **Docker🐋 and PowerBI⚡️**
+- 🌱 I’m currently learning **Docker🐋 and Streamlit⚡️**
 
 - 👯 I’m looking to collaborate on **Open Source Python and Data Projects**
 
