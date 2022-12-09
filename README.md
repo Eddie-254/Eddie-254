@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelance web scraping gigs**
 
-- 🌱 I’m currently learning **Docker🐋 and Javascript⚡️**
+- 🌱 I’m currently learning **Docker🐋 and PowerBI⚡️**
 
 - 👯 I’m looking to collaborate on **Open Source Python Projects**
 
