@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Edwin Nderitu</h1>
-<h3 align="center">A passionate python developer and data analyst from Kenya🇰🇪</h3>
+<h3 align="center">A passionate python developer and data scientist from Kenya🇰🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eddie-254&label=Profile%20views&color=0e75b6&style=flat" alt="eddie-254" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eddie-254" alt="eddie-254" /></a> </p>
 
-- 🔭 I’m currently working on **Freelance Data Analysis gigs**
+- 🔭 I’m currently working on **Open Source Data Projects**
 
-- 🌱 I’m currently learning **Docker🐋 and Streamlit⚡️**
+- 🌱 I’m currently learning **AWS ☁️ and Streamlit⚡️**
 
 - 👯 I’m looking to collaborate on **Open Source Python and Data Projects**
 
-- 🤝 I’m looking for help with **Data Analytics Role**
+- 🤝 I’m looking for help with **Data Science Role**
 
-- 💬 Ask me about **Web scraping, Data Cleaning and Data Presentation**
+- 💬 Ask me about **Web scraping, Data Cleaning, and Data Presentation**
 
 - 📫 How to reach me **nderituedwin90@gmail.com**
 
